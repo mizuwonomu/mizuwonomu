@@ -3,7 +3,7 @@ A second year HEDSPI (Vietnamese-Japanese) 🇻🇳 - 🇯🇵 Information Techn
 
 ### 🚀 Open-source Projects
 Currently working on: 
-  - 🤖 [hust-regulations-bot](https://github.com/mizuwonomu/rag-project) - A modular RAG Chatbot for HUST students to navigate academic regulations.
+  - 🤖 [hust-regulations-bot](https://github.com/mizuwonomu/hust-regulations-bot) - A modular RAG Chatbot for HUST students to navigate academic regulations.
     * **Key features**: Modular Architecture (FastAPI/Streamlit), Hybrid Search, Reranking, and PostgreSQL session management.
     * **Tech stack**: LangChain, PostgreSQL, Groq, ChromaDB, Streamlit, FastAPI, CrossEncoder.
   - 📊 [sentiment-analysis](https://github.com/mizuwonomu/sentiment_analysis) - A comparative research evaluating of Word Representations and Neural Architectures for Vietnamese Sentiment Analysis.
