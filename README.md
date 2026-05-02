@@ -1,16 +1,14 @@
 ## Hi there 👋
+---
+A second year HEDSPI (Vietnamese-Japanese) 🇻🇳 - 🇯🇵 Information Technology Major at Hanoi University of Science and Technology. AI Engineer Enthusiast, focusing on Deep Learning, NLP, and architecting RAG systems.
 
-<!--
-**mizuwonomu/mizuwonomu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Open-source Projects
+🚀 Currently working on: 
+  - 🤖 [hust-regulations-bot](https://github.com/mizuwonomu/rag-project) - A modular RAG Chatbot for HUST students to navigate academic regulations.
+    * **Key features**: Modular Architecture (FastAPI/Streamlit), Hybrid Search, Reranking, and PostgreSQL session management.
+    * **Tech stack**: LangChain, PostgreSQL, Groq, ChromaDB, Streamlit, FastAPI, CrossEncoder.
+  - 📊 [sentiment-analysis](https://github.com/mizuwonomu/sentiment_analysis) - A comparative research evaluating of Word Representations and Neural Architectures for Vietnamese Sentiment Analysis.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📫 Contact with me:
+- **Email**: sonn3061@gmail.com
+- **LinkedIn**: [Khac Son](https://www.linkedin.com/in/khac-son-1043571aa/)
