@@ -2,7 +2,6 @@
 ---
 A second year HEDSPI (Vietnamese-Japanese) 🇻🇳 - 🇯🇵 Information Technology Major at Hanoi University of Science and Technology. AI Engineer Enthusiast, focusing on Deep Learning, NLP, and architecting RAG systems.
 
----
 ### Open-source Projects
 🚀 Currently working on: 
   - 🤖 [hust-regulations-bot](https://github.com/mizuwonomu/rag-project) - A modular RAG Chatbot for HUST students to navigate academic regulations.
