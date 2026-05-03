@@ -1,5 +1,6 @@
 ## Hi there 👋
 A second year HEDSPI (Vietnamese-Japanese) 🇻🇳 - 🇯🇵 Information Technology Major at Hanoi University of Science and Technology. AI Engineer Enthusiast, focusing on Deep Learning, NLP, and architecting RAG systems.
+
 ---
 ### 🚀 Open-source Projects
 Currently working on: 
